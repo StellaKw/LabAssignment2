@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'COMP367-Pstellak'
+  name: 'COMP367-Pstellak'
 
 variables:
   solution: '**/*.sln'
